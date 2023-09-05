@@ -1,0 +1,19 @@
+{
+  "alertDelay": 5000,
+  "fontColor": "255, 255, 255",
+  "fontSize": 28,
+  "fontFamily": "Arieeel",
+  "fontStyle": 1,
+  "redeemPicture": "Alerts/Redeem.gif",
+  "followPicture": "Alerts/Follow.gif",
+  "tipPicture": "Alerts/Tip.gif",
+  "subscribePicture": "Alerts/Subscribe.gif",
+  "redeemSound": "Alerts/RedeemSound.wav",
+  "followSound": "Alerts/FollowSound.wav",
+  "tipSound": "Alerts/TipSound.wav",
+  "subscribeSound": "Alerts/SubscribeSound.wav",
+  "redeemText": "{user} just redeemed '{info}'",
+  "followText": "{user} just followed!",
+  "tipText": "{user} just tipped {info}",
+  "subscribeText": "{user} just subscribed!"
+}

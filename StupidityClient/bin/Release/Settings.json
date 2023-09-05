@@ -1,0 +1,15 @@
+{
+  "loglevel": 2,
+  "channelId": "c096603a4384a5cde832372020b63cf02278d80422d9060deb53fd887d5a855f",
+  "baseUri": "wss://joystick.tv/cable?token=",
+  "clientSecret": "WSKr880Z3qF9anCSOP4EjQ",
+  "clientId": "700c26cb-ad77-419b-8098-ea29b395c91a",
+  "currencyName": "mL moogoo",
+  "prefix": "/",
+  "cashoutDelay": 20,
+  "cashoutGoal": 200.0,
+  "tickDelayGoal": 900,
+  "activeDelay": 120,
+  "inactiveDelay": 900,
+  "activeCashout": 5.0
+}
